@@ -1,5 +1,5 @@
 ui_print "————————————————————————————————————
-        All-in-One module [V4]
+        All-in-One module [V1]
                  for               
          ~Samsung~A03~CORE~
       
@@ -38,13 +38,8 @@ ui_print "            Optimizations
 sleep 0.5
 
 ui_print "             Changelogs.
-• Updated installer style
-• More friendly signatures in module scripts
-• Trying to disable ZRam Writeback [better emmc life]
-• Updated system blurs disabler props
-• Minor script reshuffling for better launch
-• ZRAM parameters are now in service.sh
-• Setup wizard fix update
+• Welcome to GitHub!
+• First release on GitHub.
 ————————————————————————————————————"
 sleep 0.5
 
