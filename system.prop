@@ -48,3 +48,6 @@ ro.product.system_ext.name=a03corexx
 
 # --- Fix hard installing
 ro.setupwizard.mode=DISABLED
+
+# --- Remove wait CPU V-Sync
+debug.cpurend.vsync=false
