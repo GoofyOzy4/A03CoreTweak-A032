@@ -1,5 +1,5 @@
 ui_print "————————————————————————————————————
-        All-in-One module [V1]
+        All-in-One module [V2]
                  for               
          ~Samsung~A03~CORE~
       
@@ -21,25 +21,26 @@ ui_print "                Fixes
 • 4:45 bootloop fix
 • Best audio
 • Device info
-• Broken Setup Wizard fix       <Upd. v4>
+• Broken Setup Wizard fix
 ————————————————————————————————————"
 sleep 0.5
 
 ui_print "            Optimizations
 • ZRam compression for stability [lz4]
-• Edit ZRam props.     <Upd. V4>
+• Edit ZRam props.    
 • Low-ram disabler
 • TCP low latency tweak
 • Kernel Printk tweaks
 • I/O Scheduler [noop]
-• Disable system blurs.    <Upd. V4>
+• Disable system blurs.    
 • Disable ZRam Writeback
 ————————————————————————————————————"
 sleep 0.5
 
 ui_print "             Changelogs.
-• Welcome to GitHub!
-• First release on GitHub.
+• Edited ZRam props
+• Added GitHub repo updates
+• Added CPU V-Sync disabler
 ————————————————————————————————————"
 sleep 0.5
 
