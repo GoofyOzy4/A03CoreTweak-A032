@@ -27,13 +27,14 @@ sleep 0.5
 
 ui_print "            Optimizations
 • ZRam compression for stability [lz4]
-• Edit ZRam props.    
+• Change ZRam props
 • Low-ram disabler
 • TCP low latency tweak
 • Kernel Printk tweaks
 • I/O Scheduler [noop]
-• Disable system blurs.    
+• Disable system blurs
 • Disable ZRam Writeback
+• Disable CPU V-Sync
 ————————————————————————————————————"
 sleep 0.5
 
