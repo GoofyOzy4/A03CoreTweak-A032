@@ -1,3 +1,4 @@
+![logo](https://github.com/GoofyOzy4/A03CoreTweak-A032/blob/main/logo.jpg)
 # All-In-One | Samsung A03 Core
 
 ## Disclaimer: I am not responsible for any damage, bootloops, or bricked devices caused by using this module. Proceed at your own risk.
