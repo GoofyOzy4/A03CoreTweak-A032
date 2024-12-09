@@ -6,7 +6,7 @@ echo 3000000 > /sys/class/power_supply/bq2560x_charger/input_current_limit
 # --- ZRam
 # - Parameters
 ZRAM_SIZE=2G
-ZRAM_SWAPINNES=180
+ZRAM_SWAPINNES=160
 # - Start tweak
 zramctl --flush /dev/zram0
 zramctl --reset /dev/zram0
