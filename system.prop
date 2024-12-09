@@ -23,31 +23,31 @@ ro.sf.blurs_are_expensive=0
 # --- Device Info
 # - Vendor
 ro.product.brand=samsung
-ro.product.device=a03core
+ro.product.device=a3core
 ro.product.manufacturer=samsung
 ro.product.model=SM-A032F
-ro.product.name=a03corexx
+ro.product.name=a3corexx
 # - Product
 ro.product.product.brand=samsung
-ro.product.product.device=a03core
+ro.product.product.device=a3core
 ro.product.product.manufacturer=samsung
 ro.product.product.model=SM-A032F
-ro.product.product.name=a03corexx
+ro.product.product.name=a3corexx
 # - System
 ro.product.system.brand=samsung
-ro.product.system.device=a03core
+ro.product.system.device=a3core
 ro.product.system.manufacturer=samsung
 ro.product.system.model=SM-A032F
-ro.product.system.name=a03corexx
+ro.product.system.name=a3corexx
 # - System_ext
 ro.product.system_ext.brand=samsung
-ro.product.system_ext.device=a03core
+ro.product.system_ext.device=a3core
 ro.product.system_ext.manufacturer=samsung
 ro.product.system_ext.model=SM-A032F
-ro.product.system_ext.name=a03corexx
+ro.product.system_ext.name=a3corexx
 
 # --- Fix hard installing
-ro.setupwizard.mode=DISABLED
+ro.setupwizard.mode=OPTIONAL
 
 # --- Remove wait CPU V-Sync
 debug.cpurend.vsync=false
