@@ -1,5 +1,5 @@
 ui_print "————————————————————————————————————
-        All-in-One module [V2]
+        All-in-One module [V3]
                  for               
          ~Samsung~A03~CORE~
       
@@ -10,7 +10,9 @@ ui_print "———————————————————————�
 sleep 1
 ui_print "
              Disclaimer ! ! !
-I am not responsible for any damage, bootloops, or bricked devices caused by using this module. Proceed at your own risk.
+I am not responsible for any damage, bootloops,
+or bricked devices caused by using this module. 
+Proceed at your own risk.
 
 ————————————————————————————————————"
 sleep 5
@@ -40,8 +42,7 @@ sleep 0.5
 
 ui_print "             Changelogs.
 • Edited ZRam props
-• Added GitHub repo updates
-• Added CPU V-Sync disabler
+• Fixed device info
 ————————————————————————————————————"
 sleep 0.5
 
