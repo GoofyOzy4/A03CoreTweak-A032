@@ -49,5 +49,11 @@ ro.product.system_ext.name=a3corexx
 # --- Fix hard installing
 ro.setupwizard.mode=OPTIONAL
 
-# --- Remove wait CPU V-Sync
-debug.cpurend.vsync=false
+# --- very low memory killer props
+ro.config.dha_cached_max=32
+ro.config.dha_empty_max=30
+ro.config.dha_empty_init=25
+ro.config.dha_lmk_scale=1.0
+ro.config.dha_th_rate=0.5
+ro.config.sdha_apps_bg_max=20
+ro.config.sdha_apps_bg_min=10
