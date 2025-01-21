@@ -1,8 +1,4 @@
 #!/system/bin/sh
-# --- Charger
-echo 3000000 > /sys/class/power_supply/bq2560x_charger/constant_charge_current
-echo 3000000 > /sys/class/power_supply/bq2560x_charger/input_current_limit
-
 # --- ZRam
 # - Parameters
 ZRAM_SIZE=2G
