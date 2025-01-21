@@ -1,7 +1,7 @@
 id=AIOa3core
 name=[⭐] AIO for Samsung A03 Core
-version=v3
-versionCode=3
+version=v4
+versionCode=4
 author=Goofy_Ozy4
 description=ALL-IN-ONE module for Samsung A03 Core. Includes system optimizations , bootloop fixes , and other.
 updateJson=https://raw.githubusercontent.com/GoofyOzy4/A03CoreTweak-A032/main/update.json
